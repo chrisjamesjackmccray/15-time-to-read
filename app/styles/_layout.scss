@@ -27,6 +27,7 @@ hr {
 
 h2 {
   text-align: center;
+  text-transform: uppercase;
 }
 
 .text {
@@ -34,4 +35,9 @@ h2 {
   padding: 40px 300px 0 300px;
   color: black;
   font-size: 1.5rem;
+}
+
+h3 {
+  color: lightgrey;
+  margin: 0 0 0 250px;
 }
